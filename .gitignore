@@ -1,0 +1,5 @@
+.vscode
+chat_with_pdf/__pycache__
+env_pdf
+faiss_index
+multiplepdfchat/__pycache__
